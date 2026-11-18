@@ -1,6 +1,6 @@
 # Crystal Ball Markets
 
-We're an online broker based in Kingstown, St Vincent and the Grenadines. Alongside trading, we publish free market data tools for traders and developers.
+We're an online broker/trading platform. We also publish free market data tools for traders and developers.
 
 ## Free exchange rate and gold price API
 
